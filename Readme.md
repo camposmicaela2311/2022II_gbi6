@@ -6,4 +6,4 @@ En esta actividad se va hacer una evaluación de lo aprendido en Unix.
 **Datos  Personales **
 -Ciudad de origen: Archidona
 -Idioma:Kichwa y Español
--Deportes: Futlbol
+-Deportes: Futlbol y natación
